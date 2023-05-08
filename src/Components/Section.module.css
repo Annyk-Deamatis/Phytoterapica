@@ -1,0 +1,20 @@
+ .section{
+    background-image: url(../images/fundo1.jpg);
+    background-size: cover;
+    padding: 70px;
+}
+
+.section h1{
+    font-size: 28px;
+    font-weight: 500;
+    color: rgb(91, 91, 93);
+}
+
+.section p{
+    font-size: 15px;
+    font-weight: 400;
+    color: rgb(125, 125, 128);
+    padding: 10px 0 10px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}

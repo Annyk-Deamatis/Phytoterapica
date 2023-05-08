@@ -1,0 +1,19 @@
+.links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-bottom: #bebdbd solid 1px;
+
+}
+
+.links p{
+    cursor: pointer;
+    font-size: 12.3px;
+    color: #585757;
+    padding: 30px 0 30px 0;
+}
+
+.links p:hover{
+    color: #98B020;
+    transition: 2s;
+}

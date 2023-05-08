@@ -1,0 +1,131 @@
+.pagamento{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    margin: 30px;
+}
+
+.redesocial{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.titlesocial{
+    text-align: center;
+}
+
+.insta{
+    background-image: url(../images/instagram.png);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.insta:hover{
+    background-image: url(../images/instagram\ \(1\).png);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+}
+
+.facebook{
+    background-image: url(../images/facebook.png);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.facebook:hover{
+    background-image: url(../images/social.png);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+}
+
+.wifi{
+    background-image: url(../images/sinal-wifi.png);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.wifi:hover{
+    background-image: url(../images/sinal-wifi\ \(1\).png);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+}
+
+.youtube{
+    background-image: url(../images/youtube.png);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.youtube:hover{
+    background-image: url(../images/youtube\ \(1\).png);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+}
+
+.twitter{
+    background-image: url(../images/twitter.png);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.twitter:hover{
+    background-image: url(../images/twitter\ \(1\).png);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+}
+
+.pix{
+    background-image: url(../images/pix.jpeg);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+
+.visa{
+    background-image: url(../images/visa.jpeg);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.mastercard{
+    background-image: url(../images/mastercard.jpeg);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.elo{
+    background-image: url(../images/elo.jpeg);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.american{
+    background-image: url(../images/american.jpeg);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}

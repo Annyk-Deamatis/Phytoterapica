@@ -1,0 +1,66 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: #bebdbd solid 1px;
+}
+
+.quadradologo img{
+    width: 280px;
+    margin: 25px 0 25px 0;
+}
+
+.pesquisa{
+    margin-right: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid #acacac;
+    border-radius: 20px;
+    padding: 0 40px 0 30px;
+}
+
+.pesquisa img{
+    width: 15px;
+    height: 13px;
+    margin: 10px;
+}
+
+.pesquisa p{
+    font-size: 13.5px;
+    color: #5d5d5d;
+}
+
+.promo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid #5d5c5c;
+    border-radius: 20px;
+    padding: 0 0px 0 30px;
+}
+
+.promo img{
+    width: 30px;
+    height: 30px;
+    margin-left: 25px;
+}
+
+.promo p{
+    font-size: 13.5px;
+    color: #1f1f1f;
+}
+
+.iconsmenu img{
+    width: 30px;
+    height: 30px;
+    margin: 25px;
+}
+
+.menudireito{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}

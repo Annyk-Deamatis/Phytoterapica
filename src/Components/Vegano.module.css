@@ -1,0 +1,40 @@
+.diferencial{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 5px;
+    border-bottom: 1px solid #aeaeae;
+}
+
+.bloco1{
+    margin: 15px;
+}
+
+.vegano{
+    display: flex;
+}
+
+.vegano img{
+   margin-right: 20px;
+}
+
+.title_vegan{
+    margin-right: 10px;
+}
+
+.pata{
+    display: flex;
+    align-items: center;
+}
+
+.pata img{
+    margin-right: 20px;
+ }
+
+.gotas{
+    display: flex;
+}
+
+.gotas img{
+    margin-right: 20px;
+ }
